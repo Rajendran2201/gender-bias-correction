@@ -1,2 +1,16 @@
 *.safetensors filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+gild_subtaskA_lora/checkpoint-831/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+gild_subtaskA_lora/checkpoint-831/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+gild_subtaskA_lora/checkpoint-500/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+gild_subtaskA_lora/checkpoint-500/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+gild_subtaskA_lora/adapter_model.safetensors filter=lfs diff=lfs merge=lfs -text
+.git/objects/9f/d3fc7415c6148f09d8eb6d1689f069bef2659a filter=lfs diff=lfs merge=lfs -text
+.git/objects/33/09d26af7948c44dda605b0d4ab169c09b8c937 filter=lfs diff=lfs merge=lfs -text
+.git/objects/a2/ca8a4b11b91f0d5031f470897f42990a0f15b2 filter=lfs diff=lfs merge=lfs -text
+.git/objects/8d/7d9ea174ee2b0a076873440cb3ac64d6e5f579 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/c8/ab/c8ab5207678efa488c2b4f4e401a62c0cf75cf62fa07f6771dbd72ed1f60a447 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/93/0e/930efb26633bd2ef86925810c7af82ab6a88aaf03d3345667598dd8740b0626e filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/11/13/111355a058943215645201edd37bf92f31bb4348b901a548f30855cb795944ba filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/80/81/80817d2d16b0b31c415a8d61da486739aae151b44d1d654a5aa2b8756095edca filter=lfs diff=lfs merge=lfs -text
